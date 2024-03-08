@@ -1,0 +1,1 @@
+这是我们上一个版本的SLAM方案，论文中的新的方法会在发表之后进行更新，旧版方法可以参考我们已经发表的论文：CHENG S, SUN C, ZHANG S*, et al. SG-SLAM: a real-time rgb-d visual slam toward dynamic scenes with semantic and geometric information[J]. IEEE Transactions on Instrumentation and Measurement, 2023, 72(1): 1-12.
